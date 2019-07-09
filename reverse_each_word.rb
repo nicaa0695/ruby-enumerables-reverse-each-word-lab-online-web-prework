@@ -6,7 +6,7 @@ def reverse_each_word(string)
    while(i < string.length)
    string.each do |string|
     string = string.reverse()
-    new.String[j] = String 
+    newString[j] = string 
      i += 1 
      j += 1 
    end
